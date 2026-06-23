@@ -1,0 +1,8 @@
+Running JCL : CARDDEMO  Step STATMNT 
+DD Names from TIOT:
+: TRNXFILE  -- null UCB
+: XREFFILE  -- null UCB
+: CUSTFILE  -- null UCB
+: ACCTFILE  -- null UCB
+: STMTFILE  -- null UCB
+: HTMLFILE  -- null UCB
